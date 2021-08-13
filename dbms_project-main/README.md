@@ -1,2 +1,3 @@
-# DBMS PROJECT
+Self Learn | Web Dev Project
+
 <!-- [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)  --> 
